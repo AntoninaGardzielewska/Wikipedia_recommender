@@ -15,7 +15,7 @@ class MySpider(scrapy.Spider):
     
     custom_settings = {
         'FEEDS': {
-            'data/temp.csv': {
+            'data/wiki.csv': {
                 'format': 'csv',
                 'encoding': 'utf8',
                 'overwrite': True
