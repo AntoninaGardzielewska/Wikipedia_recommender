@@ -15,4 +15,4 @@
 TODO:
 * możliwe, że jest za dużo importów, ale niestety mi się nie podświetlają, które są niepotrzebne + wiem, że część Tobie się przyda podczas tworzenia wykresów, więc to można na sam koniec wyczyścić
 * nie wiem czy chcemy zachowywać Crawling and scraping
-* Present predictions
+* Present predictions (w user_urls można pokombinować z połączeniem wiki i fandom, aktualnie są tylko z wiki pliki)
